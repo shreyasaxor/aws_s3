@@ -1,8 +1,8 @@
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIAIY6TEJKN4SYG75YQ'
-ACCESS_SECRET_KEY = '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'
+ACCESS_KEY_ID = ''
+ACCESS_SECRET_KEY = ''
 BUCKET_NAME = 'shreyasnivya'
 
 
